@@ -1,0 +1,1 @@
+Node.js is a JavaScript runtime built on Chrome's V8 engine, designed to execute JavaScript code outside of a web browser. It allows developers to use JavaScript for server-side scripting, enabling them to build scalable, high-performance applications like web servers, APIs, and more.
