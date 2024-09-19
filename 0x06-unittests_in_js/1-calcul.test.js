@@ -1,5 +1,5 @@
-const assert = require('assert');
-const calculateNumber = require('./1-calcul');
+import { strict as assert } from 'assert';
+import calculateNumber from './1-calcul.js';
 
 describe('calculateNumber', function() {
   describe('SUM', function() {

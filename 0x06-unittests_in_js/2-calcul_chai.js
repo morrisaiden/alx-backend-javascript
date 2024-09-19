@@ -13,6 +13,5 @@ function calculateNumber(type, a, b) {
       return roundedA / roundedB;
     }
   }
-  
-  module.exports = calculateNumber;
+export default calculateNumber;
   
